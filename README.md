@@ -1,1 +1,2 @@
-# taller_2
+## Chatbot
+El sistema incluye un chatbot para mejorar la comunicación.
